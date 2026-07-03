@@ -8,3 +8,9 @@ print("Intersting Music Facts")
 print("music can help reduce anxiety")
 print("music helps plants grow faster")
 print("a type of therapy known as music therapy helps heal brain damage and injuries")
+
+print("carrers in music")
+print("singers: they make and/or sing their and/or someone else's songs")
+print("conductors: they conduct and orchestra or band")
+print("music teachers: they help one learn their instruments and become better at it and they conduct their band")
+
