@@ -14,3 +14,5 @@ print("singers: they make and/or sing their and/or someone else's songs")
 print("conductors: they conduct and orchestra or band")
 print("music teachers: they help one learn their instruments and become better at it and they conduct their band")
 
+print(2+2)
+
