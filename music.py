@@ -16,3 +16,4 @@ print("music teachers: they help one learn their instruments and become better a
 
 print(2+2)
 print(2+2=4)
+print(3*3=9)
