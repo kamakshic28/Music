@@ -15,10 +15,15 @@ print("conductors: they conduct and orchestra or band")
 print("music teachers: they help one learn their instruments and become better at it and they conduct their band")
 
 print(2+2)
-print(2+2=4)
-print(3*3=9)
 
 print("How do music notes work?")
 print("Notes in music go start at A and end in G and then start at A again")
 print("there are different types of notes like types of A like high A, low A, A flat, A natural, and more.")
 print("In flute, the most common notes scale is the B flat scale and it starts with a low B flat and goes up to a high B flat and back down to the low one.")
+
+print("Marching band basics")
+print("Always count by 8s. For example: 1,2,3,4,5,6,7,8. 2,2,3,4,5,6,7,8. 3,2,3,4,5,6,7,8 and so on.")
+print("Always start with the left leg and keep think left, left, left.")
+print("Roll stepping makes marching look professional.")
+print(" when marking time, (marching in place) keep in mind to make a V shape between your feet.")
+print("When you realize you are not marching in sync with others, try to quickly stop and quickly switch legs to the correct on that everyone else is doing.")
