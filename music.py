@@ -27,3 +27,5 @@ print("Always start with the left leg and keep think left, left, left.")
 print("Roll stepping makes marching look professional.")
 print(" when marking time, (marching in place) keep in mind to make a V shape between your feet.")
 print("When you realize you are not marching in sync with others, try to quickly stop and quickly switch legs to the correct on that everyone else is doing.")
+
+print(2-2)
