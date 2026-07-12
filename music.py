@@ -29,3 +29,4 @@ print(" when marking time, (marching in place) keep in mind to make a V shape be
 print("When you realize you are not marching in sync with others, try to quickly stop and quickly switch legs to the correct on that everyone else is doing.")
 
 print(2-2)
+print(4+4)
