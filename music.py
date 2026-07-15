@@ -30,4 +30,4 @@ print("When you realize you are not marching in sync with others, try to quickly
 
 print(2-2)
 print(4+4)
-print(8-8=0)
+print(10+10)
