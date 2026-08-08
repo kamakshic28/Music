@@ -30,3 +30,6 @@ print("When you realize you are not marching in sync with others, try to quickly
 
 print("What does crescendo mean in music?")
 print("It is when you gradually get louder in music")
+
+print("What is Legato in music?")
+print("It is when notes are tied together.")
