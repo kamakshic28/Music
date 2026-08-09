@@ -33,3 +33,6 @@ print("It is when you gradually get louder in music")
 
 print("What is Legato in music?")
 print("It is when notes are tied together.")
+
+print("What are measures in music?")
+print("They are the staff that is divided into measures.")
