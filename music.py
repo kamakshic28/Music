@@ -39,3 +39,4 @@ print("They are the staff that is divided into measures.")
 
 (2+2)
 (3+3)
+(2*3)
