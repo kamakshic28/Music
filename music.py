@@ -37,7 +37,4 @@ print("It is when notes are tied together.")
 print("What are measures in music?")
 print("They are the staff that is divided into measures.")
 
-(2+2)
-(3+3)
-(2*3)
-(4*5)
+print("to read notes, you can apply the Every Good Boy Does Fine method and the FACE method")
