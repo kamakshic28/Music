@@ -38,3 +38,4 @@ print("What are measures in music?")
 print("They are the staff that is divided into measures.")
 
 print("to read notes, you can apply the Every Good Boy Does Fine method and the FACE method")
+print("Every Good Boy Does Fine is used for the lines in the staff to indicate the notes, E, G, B, D, and F.")
