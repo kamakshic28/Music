@@ -42,3 +42,4 @@ print("Every Good Boy Does Fine is used for the lines in the staff to indicate t
 print("FACE is representing the notes, F, A, C, E in between the lines of a measure.")
 
 print(7+7)
+print(3+3)
