@@ -47,4 +47,5 @@ print(8+8)
 print(9+9)
 print('metzo forte')
 print('metzo piano')
+number = 5
 print(0+0)
