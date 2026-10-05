@@ -48,4 +48,6 @@ print(9+9)
 print('metzo forte')
 print('metzo piano')
 number = 5
+def onMousePress():
+    number.fill='green'
 print(0+0)
