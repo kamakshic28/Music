@@ -50,4 +50,5 @@ print('metzo piano')
 number = 5
 def onMousePress():
     number.fill='green'
+    number.size = 25
 print(0+0)
