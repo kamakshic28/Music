@@ -51,4 +51,5 @@ number = 5
 def onMousePress():
     number.fill='green'
     number.size = 25
+    number.value = 3
 print(0+0)
