@@ -54,4 +54,5 @@ def onMousePress():
     number.value = 3
     number.value = number.value + 4
     number.value = number.value - 1
+    number.value = number.value + 2
 print(0+0)
