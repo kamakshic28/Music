@@ -57,3 +57,6 @@ def onMousePress():
     number.value = number.value + 2
 print(0+0)
 print("happy")
+cat = 2
+def onMouseRelease():
+    cat.value = cat.value + 3
