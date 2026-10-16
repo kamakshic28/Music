@@ -60,3 +60,4 @@ print("happy")
 cat = 2
 def onMouseRelease():
     cat.value = cat.value + 3
+    cat.length = 3
