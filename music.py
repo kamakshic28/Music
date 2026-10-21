@@ -63,3 +63,4 @@ def onMouseRelease():
     cat.length = 3
     cat.width = 5
     cat.length = 3
+    cat.value += 4
