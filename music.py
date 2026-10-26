@@ -67,3 +67,4 @@ def onMouseRelease():
     cat.color = 'pink'
     cat.length = 8
     cat.width = 10
+    cat.height = 3
