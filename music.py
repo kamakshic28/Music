@@ -59,6 +59,7 @@ print(0+0)
 print("happy")
 cat = 2
 print('Key signatures')
+print('Sharps, Flat, and Naturels')
 def onMouseRelease():
     cat.value = cat.value + 3
     cat.length = 3
