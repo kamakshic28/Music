@@ -64,6 +64,7 @@ print(7+9)
 print(3+5)
 print('happy')
 print('counting in 6-8')
+print(0+0)
 def onMouseRelease():
     cat.value = cat.value + 3
     cat.length = 3
