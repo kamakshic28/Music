@@ -67,6 +67,7 @@ print('counting in 6-8')
 print(0+0)
 print(3+3)
 print("Music Notes")
+print('solos')
 def onMouseRelease():
     cat.value = cat.value + 3
     cat.length = 3
