@@ -69,6 +69,7 @@ print(3+3)
 print("Music Notes")
 print('solos')
 print('music notes')
+print('duo')
 def onMouseRelease():
     cat.value = cat.value + 3
     cat.length = 3
